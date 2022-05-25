@@ -27,7 +27,7 @@ Installation
 
 .. code-block:: bash
 
-    $ pip install retry
+    $ pip install go-retry
 
 
 API
